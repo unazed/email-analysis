@@ -1,0 +1,12 @@
+{
+  "carriers": {
+    "numverify": {
+      "key": "n/a"
+    },
+    "twilio": {
+      "sid": "n/a",
+      "auth": "n/a"
+    },
+    "telnyx": { }
+  }
+}
